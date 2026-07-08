@@ -1,4 +1,4 @@
-# ManyVids Downloader (Browser Extension)
+# ManyVids Video Downloader (Browser Extension)
 
 > Download supported ManyVids videos as MP4 files from the browser with direct quality selection.
 
@@ -12,7 +12,7 @@ ManyVids Downloader is a browser extension for users who want a cleaner way to s
 
 ## Links
 
-- :rocket: Get it here: [ManyVids Downloader](https://serp.ly/manyvids-downloader)
+- :rocket: Get it here: [ManyVids Downloader](https://serp.ly/manyvids-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/manyvids-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/manyvids-downloader/issues)
@@ -124,7 +124,7 @@ Some videos may use a different delivery setup than the usual player flow, which
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/manyvids-downloader](https://serp.ly/manyvids-downloader)
+Start here: [https://serp.ly/manyvids-downloader?via=github](https://serp.ly/manyvids-downloader?via=github)
 
 ## Installation Instructions
 
